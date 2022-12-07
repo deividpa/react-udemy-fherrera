@@ -8,6 +8,7 @@ export const CounterApp = () => {
   });
 
   const { counter1, counter2 } = counter;
+  console.log(counter1);
 
   return (
     <>
